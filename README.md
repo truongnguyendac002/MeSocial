@@ -1,5 +1,5 @@
 # MeBro
-MeBro is a simple social network platform built with microservices. Users can create posts, comment, like posts, and chat in real time.
+MeSocial is a simple social network platform built with microservices. Users can create posts, comment, like posts, and chat in real time.
 
 ## Features
 - User registration and login
