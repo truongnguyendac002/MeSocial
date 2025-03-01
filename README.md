@@ -1,5 +1,5 @@
-# MeBro
-MeSocial is a simple social network platform built with microservices. Users can create posts, comment, like posts, and chat in real time.
+# SocialHub
+SocialHub is a simple social network platform built with microservices. Users can create posts, comment, like posts, and chat in real time.
 
 ## Features
 - User registration and login
